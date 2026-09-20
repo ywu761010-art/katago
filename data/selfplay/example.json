@@ -1,0 +1,10 @@
+{
+  "size": 9,
+  "komi": 7.5,
+  "result": 1,
+  "moves": [
+    {"color": 1, "pos": 40, "policy": [0.01], "value": 0.12},
+    {"color": -1, "pos": 42, "policy": [0.02], "value": -0.05},
+    {"color": 1, "pos": 22, "policy": [0.03], "value": 0.2}
+  ]
+}
